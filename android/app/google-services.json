@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "667648437949",
+    "firebase_url": "https://leqahy-c832f-default-rtdb.firebaseio.com",
+    "project_id": "leqahy-c832f",
+    "storage_bucket": "leqahy-c832f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667648437949:android:78ef1b32b7c35d2fa511d4",
+        "android_client_info": {
+          "package_name": "com.example.leqahy_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667648437949-9s5el3phcrpe7bssoscvkikjha1ilgoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzt7gZh9Agznpq47fcvZ4pK3DD1y2GNjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667648437949-9s5el3phcrpe7bssoscvkikjha1ilgoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667648437949-6sjpaac1ej9dmt5s9f44a5n9tp07sei6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leqahy.v1.app",
+                "app_store_id": "6444333192"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667648437949:android:c42bcb772f7f57c6a511d4",
+        "android_client_info": {
+          "package_name": "leqahy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667648437949-9s5el3phcrpe7bssoscvkikjha1ilgoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzt7gZh9Agznpq47fcvZ4pK3DD1y2GNjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667648437949-9s5el3phcrpe7bssoscvkikjha1ilgoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667648437949-6sjpaac1ej9dmt5s9f44a5n9tp07sei6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leqahy.v1.app",
+                "app_store_id": "6444333192"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
