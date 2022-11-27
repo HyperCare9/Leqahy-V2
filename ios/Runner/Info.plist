@@ -30,6 +30,10 @@
 	<string>Main</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Leqahy wants to access your location to ease the process of delivering products</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Leqahy wants to access your location to ease the process of delivering products</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Leqahy wants to access your location to ease the process of delivering products</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
